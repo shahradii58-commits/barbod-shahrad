@@ -1,3 +1,5 @@
-number_1 = 10
+number_1 = 8
 number_2 =20
-print(number_1-number_2)
+if number_1 < 10 and number_1 > 5:
+    print("warning")
+
