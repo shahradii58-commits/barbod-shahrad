@@ -1,7 +1,7 @@
 print("=== easycale ===")
 
 num1 = float(input("first number: "))
-num2 = float(input("second number: "))
+num2 = int(input("second number: "))
 
 op = input("choose(+, -, *, /: )")
 

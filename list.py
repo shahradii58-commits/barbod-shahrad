@@ -17,6 +17,6 @@ print(lst1)
 lst1.clear()
 print(lst1)
 
-lst3 = [90, 30, 57]
+lst3 = [a, g, b, d]
 lst3.sort()
 print(lst3)
